@@ -1,3 +1,32 @@
 *{
   background-color: Black;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  color: white;
+}
+/*h1,h2{
+  color: white;
+}*/
+h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2{
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p{
+  font-size: 20px;
+  color:Gray;
+}
+
+#copy{
+  text-align: right;
 }
